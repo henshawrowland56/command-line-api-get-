@@ -1,0 +1,22 @@
+{
+  "name": "command-line-api(get)",
+  "version": "1.0.0",
+  "description": "a command line application for creating and consuming RESTful api's by using the http GET method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henshawrowland/command-line-api-get-.git"
+  },
+  "author": "HENSHAW ROWLAND",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henshawrowland/command-line-api-get-/issues"
+  },
+  "homepage": "https://github.com/henshawrowland/command-line-api-get-#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
