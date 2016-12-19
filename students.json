@@ -1,0 +1,29 @@
+{
+	"student1" : {
+		"firstName" : "promise",
+		"lastName" : "obi",
+		"department" : "computer science",
+		"faculty" : "science",
+		"cgpa" : "3.28",
+		"matricNo": "56/001",
+		"id": 1
+	},
+	"student2" : {
+		"firstName" : "john",
+		"lastName" : "paul",
+		"department" : "french",
+		"faculty" : "humanities",
+		"cgpa" : "3.81",
+		"matricNo" : "23/002",
+		"id": 2
+	},
+	"student3" : {
+		"firstName" : "mohammed",
+		"lastName" : "isa",
+		"department" : "electrical engineering",
+		"faculty" : "engineering",
+		"cgpa" : "4.29",
+		"matricNo" : "11/023",
+		"id": 3
+	}
+}
