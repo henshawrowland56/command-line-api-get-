@@ -23,6 +23,8 @@
     > npm install
 6. Launch the app using the command :
     > node index.js
+    OR
+    > npm start
 
 License
 
